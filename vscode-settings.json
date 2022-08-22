@@ -1,0 +1,44 @@
+{
+  "workbench.colorTheme": "Atom One Dark",
+  "editor.lineHeight": 21,
+  "editor.fontLigatures": true,
+  "git.enableSmartCommit": true,
+  "editor.minimap.enabled": false,
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.formatOnPaste": false,
+  "editor.formatOnType": false,
+  "formattingToggle.affects": [
+    "editor.formatOnSave"
+  ],
+  "editor.formatOnSave": false,
+  "workbench.preferredDarkColorTheme": "Atom One Dark",
+  "workbench.tips.enabled": false,
+  "window.nativeFullScreen": false,
+  "workbench.startupEditor": "none",
+  "editor.bracketPairColorization.enabled": true,
+  "workbench.colorCustomizations": {
+    "editorBracketHighlight.foreground1": "#498cad",
+    "editorBracketHighlight.foreground2": "#e8a182",
+    "editorBracketHighlight.foreground3": "#6ebf63",
+    "editorBracketHighlight.foreground4": "#e2b8ff",
+    "editorBracketHighlight.foreground5": "#f0e3af",
+    "editorBracketHighlight.foreground6": "#be3bcc",
+    "editorBracketHighlight.unexpectedBracket.foreground": "#fff"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "markdown.preview.scrollEditorWithPreview": false,
+  "markdown.preview.scrollPreviewWithEditor": false,
+  "explorer.confirmDragAndDrop": false,
+  "workbench.iconTheme": "file-icons-colourless",
+  "prettier.semi": false,
+  "javascript.preferences.importModuleSpecifier": "relative",
+  "workbench.editor.enablePreview": false,
+  "color-highlight.markRuler": false,
+  "security.workspace.trust.untrustedFiles": "open",
+  "window.restoreWindows": "none",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.colorDecorators": false,
+  "markdown-preview-github-styles.colorTheme": "light"
+}
