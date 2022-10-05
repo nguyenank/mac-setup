@@ -47,9 +47,9 @@
 
 ## Editor
 
--   `brew install vscodium`
+-   Install VS Code.
 -   Color Theme - Atom One Dark
--   copy contents of `vscode-settings.json` into Library > Application Support > VsCodium > User > `settings.json` (accessible via GUI through Workbench > Appearance > Color Customizations)
+-   copy contents of `vscode-settings.json` into Library > Application Support > VS Code > User > `settings.json` (accessible via GUI through Workbench > Appearance > Color Customizations)
 
 ### Extensions
 
